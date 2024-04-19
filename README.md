@@ -12,4 +12,4 @@ Simple Birthday card app UI. This project is made as part of [Android Basics in 
 - [x] How to customize Compose elements with a Modifier object.
 
 ### Screenshot
-<img src="" width="250" height="500" />
+<img src="Screenshot (171).png" width="250" height="500" />
